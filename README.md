@@ -305,4 +305,4 @@ A **VIDEO CAPTURE** may be downloaded from this [LINK](https://github.com/UTOR-V
 * More data points will also help in suggesting the new store locations.
 * Locations of stores may be provided to analyze data from the perspective that how location impacts revenue of a store.
 * Budget information for marketing campaign may be gathered.
-* Data about competitors sales to have comparison of performance and help in strategizing new customer acquisition.
+* Data about competitors sales to have comparison of performance and help in strategizing new customer acquisitions.
